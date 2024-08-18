@@ -1,6 +1,8 @@
 # Omnifood-FoodDelivery
+
 "Omnifood-FoodDelivery" is housing an innovative food delivery website project named Omnifood. This repository contains the complete source code, design assets, and interactive features that power Omnifood's seamless online food ordering experience.
 
+![Preview](Preview/OmniFood — Never cook again.png)
 
 ## About Omnifood
 
@@ -26,10 +28,6 @@ No waste: All our partners only use reusable containers to package all your meal
 Pause anytime: Going on vacation? Just pause your subscription, and we refund unused days.
 
 ### How Omnifood works
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
 
 **Your daily dose of health in 3 simple steps**
 
